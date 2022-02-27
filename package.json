@@ -34,7 +34,7 @@
   "deprecated": false,
   "description": "Adapter to automate switching your Vis-Views",
   "devDependencies": {
-    "@alcalzone/release-script": "^2.2.2",
+    "@alcalzone/release-script": "^3.5.2",
     "@iobroker/testing": "^2.5.2",
     "@types/chai": "^4.3.0",
     "@types/chai-as-promised": "^7.1.4",
